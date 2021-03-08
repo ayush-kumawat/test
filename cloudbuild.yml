@@ -1,0 +1,3 @@
+steps:
+- name: 'bash'
+  args: ['go', 'get -d github.com/gorilla/mux']
